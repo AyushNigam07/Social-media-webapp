@@ -1,0 +1,11 @@
+
+body {
+ background: linear-gradient(132deg, rgb(221, 221, 221) 0.00%, rgb(110, 136, 161) 100.00%);;
+}
+.MuiTypography-h4{
+    font-weight: 600 !important;
+}
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
